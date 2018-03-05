@@ -59,8 +59,7 @@ save_path{16} = path{16}(32:end);
 
 % Boolean vector which tells what tests have the phaseA sensor broken, and computes
 % the features with only phaseB and phaseC currents
-% two_currents = [zeros(1, 5) ones(1, 4) zeros(1, 7)];
-two_currents = [ones(1, 4) zeros(1, 1)];
+two_currents = [zeros(1, 5) ones(1, 4) zeros(1, 7)];
 
 %% Properties
 
@@ -210,6 +209,7 @@ for tt = 1 : length(path) % loop over different time instants
                 
                 for i=1:length(zx)-1
                     t_feat_1 = find(phase_A.Time>t_res(zx(i)), 1); % index of zero crossing
+                    t_feat_2 = find(phase_A.Time>t_res(zx(i+1)), 1);
                     
                     %% CREST FACTOR
                     features_A(1,i) = peak2rms(phase_A.Data(t_feat_1:t_feat_2));
