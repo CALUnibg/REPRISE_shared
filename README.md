@@ -41,11 +41,11 @@ No 717112 (project acronym: REPRISE)
 
 ## Books
 
-* M. Mazzoleni, G. Di Rito and F. Previdi, "Electro-Mechanical Actuators for the More Electric Aircraft," in Advances in Industrial Control, Springer International Publishing, doi: 10.1007/978-3-030-61799-8, ISBN: 978-3-030-61799-8.
+* M. Mazzoleni, G. Di Rito and F. Previdi, "Electro-Mechanical Actuators for the More Electric Aircraft," in <strong>Advances in Industrial Control, Springer International Publishing</strong>, doi: 10.1007/978-3-030-61799-8, ISBN: 978-3-030-61799-8.
 
 
 
 
 ## PhD Theses
 
-* Y. Maccarana. "Health Monitoring of Electro-Mechanical Actuators for primary flight surfaces", Ph.D. Engineering and Applied Sciences, University of Bergamo,  2018, XXI cycle. Supervisor: prof. Fabio Previdi.  <strong>[[Paper](https://github.com/CALUnibg/REPRISE_shared/blob/master/Papers/Maccarana-Yamuna.pdf)]</strong>
+* Y. Maccarana. "Health Monitoring of Electro-Mechanical Actuators for primary flight surfaces", <strong>Ph.D. Engineering and Applied Sciences, University of Bergamo</strong>,  2018, XXI cycle. Supervisor: prof. Fabio Previdi.  <strong>[[Paper](https://github.com/CALUnibg/REPRISE_shared/blob/master/Papers/Maccarana-Yamuna.pdf)]</strong>
